@@ -1,7 +1,3 @@
 Test Datei
 erste Aenderung
-<<<<<<< HEAD
-Aenderung im main branch
-=======
-changes on newbranch
->>>>>>> newbranch
+jetzt ists richtig
