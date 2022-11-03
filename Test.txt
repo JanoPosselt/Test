@@ -1,7 +1,11 @@
 Test Datei
 erste Aenderung
 <<<<<<< HEAD
+<<<<<<< HEAD
 change main
 =======
 change newbranch
+>>>>>>> newbranch
+=======
+change newbranch 2
 >>>>>>> newbranch
